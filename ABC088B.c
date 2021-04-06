@@ -1,3 +1,6 @@
+//動作したがコードテスト貫通せず。
+//自力でsortしたバージョン。
+
 #include <stdio.h>
 
 void maxsort(int array[],int key1,int N1){
