@@ -1,3 +1,7 @@
+//stdlibでqsortを使ったバージョン。
+//これでも貫通せず、、、
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
